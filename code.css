@@ -1,0 +1,15 @@
+:root {
+    --primary: #10a37f;
+    --secondary: #075c48;
+    --white: #fff;
+    --primaryLight: #F8F8F8;
+    --primaryDark: #222222;
+    --secondaryLight: #dbdbdb;
+    --secondaryDark: #ececec;
+    --textColor: #7BBA81;
+    --special: #d2af7a;
+    --ternary: #c4c9d3;
+    --error: #e74c3c;
+    --maxPageWidth: 110rem;
+    --discord: #7b40ff;
+  }
